@@ -1,0 +1,14 @@
+<script>
+function createRange(min= "4", max= "8") {
+    var range = [];
+    for (let i = min; i <= max; i++) {
+        range.push(i);
+    }
+    return range;
+}
+
+
+createRange(4, 8)
+// => [4, 5, 6, 7, 8]
+document.write("<p>Nomornya yaitu " + i + "</p>");
+</script>
