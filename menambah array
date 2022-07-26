@@ -1,0 +1,16 @@
+<script>
+var stuff=new Array('Meja', 'Buku', 'Topi', 'Baju', 'Kayu');{
+
+document.write("handuk  "+stuff+"<br>");
+hari.unshift('Meja', 'Buku', 'Topi', 'Baju', 'Kayu')}
+
+<br><br>
+{
+document.write("handuk "+stuff+"<br>");
+hari.push('Meja', 'Buku', 'Topi', 'Baju', 'Kayu')
+}
+
+
+
+
+</script>
