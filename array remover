@@ -1,0 +1,11 @@
+<script>
+var fruit =('Jeruk', 'Pepaya', 'Jambu', 'Anggur', 'Melon');{
+
+arr.splice(2,1);
+
+}
+
+
+
+
+</script>
