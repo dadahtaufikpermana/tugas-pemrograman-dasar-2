@@ -1,0 +1,14 @@
+#include "iostream"
+#include "conio.h"
+using namespace std;
+void main(){
+int i;
+cout<<"Program menampilkan Bilangan Ganjil dari 1 - 100"<<endl<<endl;
+cout<<"Bilangan ganjil : "<<endl;
+  for(i=1;i<=100;i++){
+    if(i%2!=0)cout << i << ", ";
+       }
+
+     cout<<endl<<endl<<endl;
+_getch();
+}
